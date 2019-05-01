@@ -23,7 +23,7 @@ Set to Disable by default as it affects other projects.
 - Disabled > Default
 - Enabled > Only deno project
 
-`.vscode/settings/json`
+`.vscode/settings.json`
 
 ```json
 {
